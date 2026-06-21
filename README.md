@@ -1,6 +1,6 @@
 <b><h1 align="center">SALES FORECASTING ANALYSIS SYSTEM (KAGGLE DATASET)</h1>
 
-<hr>
+<hr> 
 
 <h2>PROJECT OVERVIEW</h2>
 
